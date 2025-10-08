@@ -1,0 +1,20 @@
+# Базовые зависимости 
+wheel==0.40.0 
+setuptools==68.0.0 
+Cython==0.29.36 
+ 
+# Оптимизированные numpy и scipy для ARM 
+numpy==1.24.3 
+scipy==1.10.1 
+ 
+# Локальные ИИ библиотеки 
+transformers==4.35.2 
+torch==2.0.1 
+tokenizers==0.15.0 
+sentencepiece==0.1.99 
+ 
+# Русская языковая модель 
+rutransformers==0.0.4 
+natasha==1.5.0 
+pymorphy2==0.9.1 
+pymorphy2-dicts-ru==2.4.417127.4579844 
